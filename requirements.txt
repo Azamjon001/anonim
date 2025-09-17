@@ -1,7 +1,3 @@
 pyrogram
-tgcrypto
-openai
-TTS
-yt-dlp
-pydub
 aiohttp
+
